@@ -1,0 +1,20 @@
+﻿{
+	"name": "math_rounds",
+	"description": "Math Rounds",
+	"version": "1.0.0.0",
+	"manifest_version": 2,
+	"app": {
+		"launch": {
+			"local_path": "index.html"
+		}
+	},
+	"icons": {
+		"16": "icon-16.png",
+		"128": "icon-128.png",
+		"256": "icon-256.png"
+	},
+	"permissions": [
+		"unlimitedStorage"
+	],
+	"offline_enabled": true
+}
