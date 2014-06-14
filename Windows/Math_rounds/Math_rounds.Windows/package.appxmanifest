@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
 
-  <Identity Name="D6300F62-280A-41DC-9F8A-EBEF8A011F0F" Version="1.0.0.0" />
+  <Identity Name="0E909A2C-01B5-4357-9221-CF37243F9409" Version="1.0.0.0" />
 
   <Properties>
     <DisplayName>math_rounds</DisplayName>

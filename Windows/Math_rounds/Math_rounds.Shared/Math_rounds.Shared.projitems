@@ -3,7 +3,7 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
     <HasSharedItems>true</HasSharedItems>
-    <SharedGUID>FBCCC75F-9245-45F5-8BDA-F4191D918AFF</SharedGUID>
+    <SharedGUID>984745BF-4A99-497F-AF11-56783AA858D5</SharedGUID>
   </PropertyGroup>
   <ItemGroup>
 	<Content Include="$(MSBuildThisFileDirectory)c2runtime.js" />

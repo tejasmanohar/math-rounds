@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
 
-  <Identity Name="44A7E103-377C-48BD-A3EA-7198C05D90C5" Version="1.0.0.0" />
+  <Identity Name="4295A981-76A1-4F1E-9744-AA41B476AA58" Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="44A7E103-377C-48BD-A3EA-7198C05D90C5" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="4295A981-76A1-4F1E-9744-AA41B476AA58" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>math_rounds</DisplayName>
