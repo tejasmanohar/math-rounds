@@ -1,2 +1,5 @@
-math-rounds
-===========
+Math Rounds
+============
+Math Rounds is built in HTML5 (and JavaScript). It utilizes localstorage for game saves (hey, at least it's more reliable than cookies!). The mobile ports are built through the Intel XDK for iOS, Android, and Windows Phone (not only games coming to the Windows Store but educational ones). Note that a Tizen export is also possible but wasn't in the time frame of the hackathon and may be a future addition. Outside of the XDK, the app was also ported to a chrome app (not extension) including a custom icon on Chrome OS devices.
+
+Math Rounds is a 2D game that intends to promote interest in math (and leading up to computer science) in children. Math Rounds is a series of challenges that involve (and will be expanded) fighting off enemies, avoiding obstacles, etc. but not by using standard controls but by computing mathematical expressions of increasing difficulty. Each challenge focuses on a certain skillset ranging from addition to multiplication to modulo. The user solves a math problem to make his/her character act in time.
